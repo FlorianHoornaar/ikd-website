@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICT-Kring Delft//Bijeenkomsten//NL
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ICT-Kring Delft
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ikd-20261102@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20261102T170000
+DTEND;TZID=Europe/Amsterdam:20261102T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20261207@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20261207T170000
+DTEND;TZID=Europe/Amsterdam:20261207T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270104@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270104T170000
+DTEND;TZID=Europe/Amsterdam:20270104T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270201@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270201T170000
+DTEND;TZID=Europe/Amsterdam:20270201T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270301@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270301T170000
+DTEND;TZID=Europe/Amsterdam:20270301T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270405@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270405T170000
+DTEND;TZID=Europe/Amsterdam:20270405T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270503@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270503T170000
+DTEND;TZID=Europe/Amsterdam:20270503T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270607@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270607T170000
+DTEND;TZID=Europe/Amsterdam:20270607T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270705@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270705T170000
+DTEND;TZID=Europe/Amsterdam:20270705T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270802@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270802T170000
+DTEND;TZID=Europe/Amsterdam:20270802T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20270906@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20270906T170000
+DTEND;TZID=Europe/Amsterdam:20270906T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20271004@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20271004T170000
+DTEND;TZID=Europe/Amsterdam:20271004T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20271101@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20271101T170000
+DTEND;TZID=Europe/Amsterdam:20271101T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+BEGIN:VEVENT
+UID:ikd-20271206@ictkringdelft.nl
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Amsterdam:20271206T170000
+DTEND;TZID=Europe/Amsterdam:20271206T190000
+SUMMARY:ICT-Kring Delft – maandelijkse bijeenkomst
+LOCATION:Vakwerkhuis\, Professor Snijderstraat 2\, 2628 RA Delft
+DESCRIPTION:17.00 inloop · 17.30 welkom en spreker · 18.15 borrel · 19.00 einde. Om 19.15 diner in De Beierd\, Markt 5 (eigen rekening\, iedereen welkom).
+END:VEVENT
+END:VCALENDAR
